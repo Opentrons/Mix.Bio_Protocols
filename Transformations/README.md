@@ -17,12 +17,12 @@ This protocol uses 50 uL competent cells, 2 uL plasmid DNA and 200 uL Luria Brot
 
 ##### Ingredients
 **Tube Rack:**
-	* A1: Luria Broth
+* A1: Luria Broth
 **Cold Deck:**
-	* A1: Competent Cells
-	* A2: DNA
+* A1: Competent Cells
+* A2: DNA
 **Heat Deck:**
-	* A1: Transfer Tube
+* A1: Transfer Tube
 
 ---
 
