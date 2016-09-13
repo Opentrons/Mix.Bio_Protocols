@@ -4,8 +4,8 @@
 Dilutes initial sample seven times. It is a 2X dilution, utilizing 50uL of dilutent and 50uL of the sample, mixing, and then transferring 50uL to the next well containing another 50uL of dilutent.
 
 ##### Pipettes
-p200 Single [Left]
-p200 Multi [Center]
+* p200 Single [Left]
+* p200 Multi [Center]
 
 ##### Deck
 * A1: p200 tiprack
@@ -16,12 +16,17 @@ p200 Multi [Center]
 * E1: 0.75ml tube rack
 
 ##### Ingredients
-**Trough:**
-	A1: Diluent
-**Tube Rack:**
-	A1: Sample
-**96 Well Plate:**
-	A1-H1: Dilutions
+Trough:
+
+* A1: Diluent
+
+Tube Rack:
+
+* A1: Sample
+
+96 Well Plate:
+
+* A1-H1: Dilutions
 
 ---
 
@@ -29,8 +34,8 @@ p200 Multi [Center]
 Dilutes initial sample seven times. It is a 10X dilution, utilizing 90uL of dilutent and 10uL of the sample, mixing, and then transferring 10uL to the next well containing another 90uL of dilutent.
 
 ##### Pipettes
-p10 Single [Left]
-p200 Multi [Center]
+* p10 Single [Left]
+* p200 Multi [Center]
 
 ##### Deck
 * A1: p10 tiprack
@@ -41,12 +46,17 @@ p200 Multi [Center]
 * C1: 0.75ml tuberack
 
 ##### Ingredients
-**Trough:**
-	A1: Diluent
-**Tube Rack:**
-	A1: Sample
-**96 Well Plate:**
-	A1-H1: Dilutions
+Trough:
+
+* A1: Diluent
+
+Tube Rack:
+
+* A1: Sample
+
+96 Well Plate:
+
+* A1-H1: Dilutions
 
 ---
 
@@ -63,10 +73,13 @@ p200 Multi [Center]
 * D1: 96 well plate
 
 ##### Ingredients
-**Trough:**
-	A1: Diluent
-**96 Well Plate:**
-	Row 1: Samples already in place
-	Row 2-12: dilutions
+Trough:
+
+* A1: Diluent
+
+96 Well Plate:
+
+* Row 1: Samples already in place
+* Row 2-12: dilutions
 
 
