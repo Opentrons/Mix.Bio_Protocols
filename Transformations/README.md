@@ -4,8 +4,8 @@
 This protocol uses 50 uL competent cells, 2 uL plasmid DNA and 200 uL Luria Broth (LB). The DNA is first added to the cells, and then they are incubated for 30 minutes at 4 degrees Celsius. Then, the entire solution is transferred to a new tube on the heat block and ‘heat shocked’ for exactly 60 seconds. The solution is then returned to the cold block for 5 minutes, before adding the LB. The tube is then removed from the robot and incubated at 37 degrees Celsius on a shaker for two hours before being plated.
 
 ##### Pipettes
-p200 Single [Left]
-p10 Single [Center]
+* p200 Single [Left]
+* p10 Single [Center]
 
 ##### Deck
 * A2: p200 tiprack
@@ -17,12 +17,12 @@ p10 Single [Center]
 
 ##### Ingredients
 **Tube Rack:**
-	A1: Luria Broth
+	* A1: Luria Broth
 **Cold Deck:**
-	A1: Competent Cells
-	A2: DNA
+	* A1: Competent Cells
+	* A2: DNA
 **Heat Deck:**
-	A1: Transfer Tube
+	* A1: Transfer Tube
 
 ---
 
